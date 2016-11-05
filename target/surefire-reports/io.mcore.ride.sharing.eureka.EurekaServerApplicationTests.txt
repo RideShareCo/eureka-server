@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: io.mcore.ride.sharing.eureka.EurekaServerApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.547 sec - in io.mcore.ride.sharing.eureka.EurekaServerApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.361 sec - in io.mcore.ride.sharing.eureka.EurekaServerApplicationTests
